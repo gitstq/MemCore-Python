@@ -1,0 +1,11 @@
+# MemCore - No required dependencies!
+# This project uses only Python standard library
+# Optional dependencies for enhanced features:
+
+# For development/testing:
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# For type checking (optional):
+# mypy>=0.950
